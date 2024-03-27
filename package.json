@@ -1,0 +1,24 @@
+{
+  "name": "sb",
+  "version": "2.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "wellyeah",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/voice": "^0.14.0",
+    "axios": "^1.4.0",
+    "discord.js": "^14.11.0",
+    "discord.js-selfbot": "^12.0.2",
+    "discord.js-selfbot-v13": "^3.1.4",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "more-consoles": "^1.1.9",
+    "sphinx-run": "^2.0.21"
+  }
+}
